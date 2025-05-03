@@ -58,8 +58,8 @@
 ---
 
 ### 🐍 Snake Animation (Contribution Graph)
-
-```html
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shaurya07dev/Shaurya07dev/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shaurya07dev/Shaurya07dev/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
