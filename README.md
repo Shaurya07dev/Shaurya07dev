@@ -46,7 +46,7 @@
 ![Hostinger](https://img.shields.io/badge/Hostinger-%237B68EE?style=for-the-badge&logoColor=white)
 
 ---
-
+<!--
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -55,9 +55,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=react" />
 </p>
 
----
-
-### 🐍 Snake Animation (Contribution Graph)
+--- 
+-->
+### 🐍 My Contribution Graph
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shaurya07dev/Shaurya07dev/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shaurya07dev/Shaurya07dev/output/github-snake.svg" />
