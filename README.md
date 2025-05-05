@@ -45,7 +45,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Hostinger](https://img.shields.io/badge/Hostinger-%237B68EE?style=for-the-badge&logoColor=white)
 
-*Python Libraries:*
+**Python Libraries:**
 <p align="left">
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
@@ -62,18 +62,13 @@
 </p>
 
 ---
-
 ### 📈 GitHub Stats
 
-<!-- GitHub Stats 
-![Shaurya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shaurya07dev&show_icons=true&theme=radical)
--->
-
-<!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaurya07dev&layout=compact&theme=radical)
 
-<!-- GitHub Trophies -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shaurya07dev&theme=radical&no-frame=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shaurya07dev&theme=radical)
+
+![](https://github-profile-trophy.vercel.app/?username=Shaurya07dev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <!--
 <p align="center">
@@ -84,7 +79,7 @@
 
 --- 
 -->
-**🐍 My Contribution Graph**
+### 🐍 My Contribution Graph
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shaurya07dev/Shaurya07dev/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shaurya07dev/Shaurya07dev/output/github-snake.svg" />
